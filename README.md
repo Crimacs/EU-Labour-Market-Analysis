@@ -113,3 +113,10 @@ Se vuoi discutere del progetto o collaborare:
 
 🔗 LinkedIn:www.linkedin.com/in/massimilianopiccolo
 
+**⭐ Conclusione**
+
+Questo progetto rappresenta un percorso di crescita da Data Analyst verso la Data Science:
+dati reali, KPI, SQL, dashboard interattive, correlazioni statistiche e un modello predittivo ARIMA.
+
+Se il progetto ti è piaciuto, lascia una ⭐ su GitHub!
+
